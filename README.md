@@ -19,6 +19,6 @@ Acesta este un proiect de portofoliu creat pentru MatyMedia, un editor video. Si
 
 ## Instrucțiuni de Utilizare
 
-1. **Clonează Repozitoriul:**
+1. **Vizualizarea Site-ului:**
    ```bash
-   git clone https://65c28b8ee344ad30be744426--clever-cajeta-400566.netlify.app/
+   git visual https://65c28b8ee344ad30be744426--clever-cajeta-400566.netlify.app/
