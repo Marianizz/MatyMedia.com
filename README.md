@@ -21,4 +21,4 @@ Acesta este un proiect de portofoliu creat pentru MatyMedia, un editor video. Si
 
 1. **Vizualizarea fiserului:**
    ```bash
-   git clone https://github.com/utilizator/matymedia-portfolio.git
+  [ git clone https://github.com/utilizator/matymedia-portfolio.git](https://65c28b8ee344ad30be744426--clever-cajeta-400566.netlify.app/)
