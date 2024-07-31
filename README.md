@@ -19,6 +19,6 @@ Acesta este un proiect de portofoliu creat pentru MatyMedia, un editor video. Si
 
 ## Instrucțiuni de Utilizare
 
-1. **Clonează Repozitoriul:**
+1. **Vizualizarea fiserului:**
    ```bash
    git clone https://github.com/utilizator/matymedia-portfolio.git
